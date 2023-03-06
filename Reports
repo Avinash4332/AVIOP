@@ -1,8 +1,8 @@
 #First Line
 rm -rf /storage/emulated/0/Android/data/com.pubg.imobile/files/ProgramBinaryCache
 touch /storage/emulated/0/Android/data/com.pubg.imobile/files/ProgramBinaryCache
-rm -rf /storage/emulated/0/Android/data/com.pubg.imobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/{PufferEifs0,PufferEifs1,LightData}
-touch /storage/emulated/0/Android/data/com.pubg.imobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/{PufferEifs0,PufferEifs1,LightData}
+rm -rf /storage/emulated/0/Android/data/com.pubg.imobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/{PufferEifs0,PufferEifs1}
+touch /storage/emulated/0/Android/data/com.pubg.imobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/{PufferEifs0,PufferEifs1}
 rm -rf /data/user/0/com.pubg.imobile/{files,app_*,shared_prefs}
 touch /data/user/0/com.pubg.imobile/{files,shared_prefs,app_crashrecord,app_crashSight,app_webview,cache,code_cache,no_backup}
 chmod 4000 /data/user/0/com.pubg.imobile/{files,shared_prefs,app_crashrecord,app_crashSight,app_webview}
